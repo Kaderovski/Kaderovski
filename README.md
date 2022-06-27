@@ -5,4 +5,4 @@
 - 🐍, 🦀 & 🐚 trilingual 
 - ⚡ Fun fact: my 🐱 name is Herr Ludwig Van Chacha
 
-https://github-readme-stats.vercel.app/api?username=kaderovski&count_private=true&show_icons=true
+[![Kaderovski's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaderovski&count_private=true&show_icons=true)](https://github.com/kaderovski)
