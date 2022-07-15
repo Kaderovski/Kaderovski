@@ -13,4 +13,4 @@
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&color=dea584&logo=rust&logoColor=000000)
 ![Shell](https://img.shields.io/badge/-SHELL-05122A?style=for-the-badge&color=1e1e2e8&logo=shell&logoColor=ffffff)
 
-https://github-profile-trophy.vercel.app/?username=kaderovski&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&margin-w=15
+![https://github-profile-trophy.vercel.app/?username=kaderovski&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest&margin-w=15](https://github.com/ryo-ma/github-profile-trophy)
